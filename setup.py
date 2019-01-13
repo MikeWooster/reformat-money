@@ -31,7 +31,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='reformat-money',
-    version='0.0.1',
+    version='0.0.2',
     author='Mike Wooster',
     author_email='',
     description='A script to fix money references within a codebase.',
